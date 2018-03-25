@@ -15,4 +15,7 @@ Feature engineering
  - Vowel counts
  - Length
  - word frequency
+ -First character
+ -Last character
+ 
  
